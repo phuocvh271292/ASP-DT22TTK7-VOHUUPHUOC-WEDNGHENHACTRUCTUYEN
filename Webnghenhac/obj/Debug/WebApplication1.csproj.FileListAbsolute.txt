@@ -1,0 +1,459 @@
+E:\visual studio\WebNgheNhac\WebApplication1\bin\WebApplication1.dll.config
+E:\visual studio\WebNgheNhac\WebApplication1\bin\WebApplication1.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\WebApplication1.pdb
+E:\visual studio\WebNgheNhac\WebApplication1\bin\roslyn\csc.exe
+E:\visual studio\WebNgheNhac\WebApplication1\bin\roslyn\csc.exe.config
+E:\visual studio\WebNgheNhac\WebApplication1\bin\roslyn\csc.rsp
+E:\visual studio\WebNgheNhac\WebApplication1\bin\roslyn\csi.exe
+E:\visual studio\WebNgheNhac\WebApplication1\bin\roslyn\csi.exe.config
+E:\visual studio\WebNgheNhac\WebApplication1\bin\roslyn\csi.rsp
+E:\visual studio\WebNgheNhac\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\visual studio\WebNgheNhac\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+E:\visual studio\WebNgheNhac\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\visual studio\WebNgheNhac\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\roslyn\System.AppContext.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\roslyn\System.Console.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\roslyn\System.IO.Compression.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\roslyn\System.Net.Http.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\roslyn\System.Net.Sockets.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\roslyn\System.ValueTuple.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\roslyn\vbc.exe
+E:\visual studio\WebNgheNhac\WebApplication1\bin\roslyn\vbc.exe.config
+E:\visual studio\WebNgheNhac\WebApplication1\bin\roslyn\vbc.rsp
+E:\visual studio\WebNgheNhac\WebApplication1\bin\roslyn\VBCSCompiler.exe
+E:\visual studio\WebNgheNhac\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+E:\visual studio\WebNgheNhac\WebApplication1\bin\Antlr3.Runtime.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\Newtonsoft.Json.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\System.Web.Helpers.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\System.Web.Mvc.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\System.Web.Optimization.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\System.Web.Razor.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\System.Web.WebPages.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\System.Web.WebPages.Razor.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\WebGrease.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\System.Web.Helpers.xml
+E:\visual studio\WebNgheNhac\WebApplication1\bin\System.Web.Mvc.xml
+E:\visual studio\WebNgheNhac\WebApplication1\bin\System.Web.Optimization.xml
+E:\visual studio\WebNgheNhac\WebApplication1\bin\System.Web.Razor.xml
+E:\visual studio\WebNgheNhac\WebApplication1\bin\System.Web.WebPages.xml
+E:\visual studio\WebNgheNhac\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+E:\visual studio\WebNgheNhac\WebApplication1\bin\System.Web.WebPages.Razor.xml
+E:\visual studio\WebNgheNhac\WebApplication1\bin\Newtonsoft.Json.xml
+E:\visual studio\WebNgheNhac\WebApplication1\bin\Antlr3.Runtime.pdb
+E:\visual studio\WebNgheNhac\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\visual studio\WebNgheNhac\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
+E:\visual studio\WebNgheNhac\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+E:\visual studio\WebNgheNhac\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+E:\visual studio\WebNgheNhac\WebApplication1\obj\Debug\WebApplication1.dll
+E:\visual studio\WebNgheNhac\WebApplication1\obj\Debug\WebApplication1.pdb
+E:\visual studio\WebNgheNhac\WebApplication1\bin\Microsoft.AspNetCore.Http.Features.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\Microsoft.Extensions.Primitives.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\System.Buffers.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\System.IO.Pipelines.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\System.Memory.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\System.Numerics.Vectors.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\System.Threading.Tasks.Extensions.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\Microsoft.AspNetCore.Http.Features.xml
+E:\visual studio\WebNgheNhac\WebApplication1\bin\Microsoft.Extensions.Primitives.xml
+E:\visual studio\WebNgheNhac\WebApplication1\bin\System.Buffers.xml
+E:\visual studio\WebNgheNhac\WebApplication1\bin\System.IO.Pipelines.xml
+E:\visual studio\WebNgheNhac\WebApplication1\bin\System.Memory.xml
+E:\visual studio\WebNgheNhac\WebApplication1\bin\System.Numerics.Vectors.xml
+E:\visual studio\WebNgheNhac\WebApplication1\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\visual studio\WebNgheNhac\WebApplication1\bin\System.Threading.Tasks.Extensions.xml
+E:\visual studio\WebNgheNhac\WebApplication1\bin\Google.Api.CommonProtos.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\Google.Protobuf.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\Google.Api.CommonProtos.pdb
+E:\visual studio\WebNgheNhac\WebApplication1\bin\Google.Api.CommonProtos.xml
+E:\visual studio\WebNgheNhac\WebApplication1\bin\Google.Protobuf.pdb
+E:\visual studio\WebNgheNhac\WebApplication1\bin\Google.Protobuf.xml
+E:\visual studio\WebNgheNhac\WebApplication1\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\Microsoft.AspNetCore.Authentication.Cookies.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\Microsoft.AspNetCore.Authentication.Core.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\Microsoft.AspNetCore.Authentication.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\Microsoft.AspNetCore.DataProtection.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\Microsoft.AspNetCore.Http.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\Microsoft.AspNetCore.Http.Extensions.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\Microsoft.AspNetCore.WebUtilities.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\Microsoft.Extensions.Logging.Abstractions.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\Microsoft.Extensions.ObjectPool.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\Microsoft.Extensions.Options.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\Microsoft.Extensions.WebEncoders.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\Microsoft.Net.Http.Headers.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\Microsoft.Win32.Registry.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\System.ComponentModel.Annotations.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\System.Security.AccessControl.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\System.Security.Cryptography.Xml.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\System.Security.Permissions.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\System.Security.Principal.Windows.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\System.Text.Encodings.Web.dll
+E:\visual studio\WebNgheNhac\WebApplication1\bin\Microsoft.AspNetCore.Authentication.xml
+E:\visual studio\WebNgheNhac\WebApplication1\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+E:\visual studio\WebNgheNhac\WebApplication1\bin\Microsoft.AspNetCore.Authentication.Cookies.xml
+E:\visual studio\WebNgheNhac\WebApplication1\bin\Microsoft.AspNetCore.Authentication.Core.xml
+E:\visual studio\WebNgheNhac\WebApplication1\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+E:\visual studio\WebNgheNhac\WebApplication1\bin\Microsoft.AspNetCore.DataProtection.xml
+E:\visual studio\WebNgheNhac\WebApplication1\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+E:\visual studio\WebNgheNhac\WebApplication1\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+E:\visual studio\WebNgheNhac\WebApplication1\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+E:\visual studio\WebNgheNhac\WebApplication1\bin\Microsoft.AspNetCore.Http.xml
+E:\visual studio\WebNgheNhac\WebApplication1\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+E:\visual studio\WebNgheNhac\WebApplication1\bin\Microsoft.AspNetCore.Http.Extensions.xml
+E:\visual studio\WebNgheNhac\WebApplication1\bin\Microsoft.AspNetCore.WebUtilities.xml
+E:\visual studio\WebNgheNhac\WebApplication1\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\visual studio\WebNgheNhac\WebApplication1\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\visual studio\WebNgheNhac\WebApplication1\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+E:\visual studio\WebNgheNhac\WebApplication1\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+E:\visual studio\WebNgheNhac\WebApplication1\bin\Microsoft.Extensions.Logging.Abstractions.xml
+E:\visual studio\WebNgheNhac\WebApplication1\bin\Microsoft.Extensions.ObjectPool.xml
+E:\visual studio\WebNgheNhac\WebApplication1\bin\Microsoft.Extensions.Options.xml
+E:\visual studio\WebNgheNhac\WebApplication1\bin\Microsoft.Extensions.WebEncoders.xml
+E:\visual studio\WebNgheNhac\WebApplication1\bin\Microsoft.Net.Http.Headers.xml
+E:\visual studio\WebNgheNhac\WebApplication1\bin\System.Text.Encodings.Web.xml
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\WebApplication1.dll.config
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\WebApplication1.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\WebApplication1.pdb
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\roslyn\csc.exe
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\roslyn\csc.exe.config
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\roslyn\csc.rsp
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\roslyn\csi.exe
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\roslyn\csi.exe.config
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\roslyn\csi.rsp
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\roslyn\System.AppContext.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\roslyn\System.Console.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\roslyn\System.IO.Compression.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\roslyn\System.Net.Http.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\roslyn\System.Net.Sockets.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\roslyn\System.ValueTuple.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\roslyn\vbc.exe
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\roslyn\vbc.exe.config
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\roslyn\vbc.rsp
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\roslyn\VBCSCompiler.exe
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\Antlr3.Runtime.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\Google.Api.CommonProtos.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\Google.Protobuf.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\Microsoft.AspNetCore.Authentication.Cookies.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\Microsoft.AspNetCore.Authentication.Core.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\Microsoft.AspNetCore.Authentication.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\Microsoft.AspNetCore.DataProtection.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\Microsoft.AspNetCore.Http.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\Microsoft.AspNetCore.Http.Extensions.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\Microsoft.AspNetCore.Http.Features.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\Microsoft.AspNetCore.WebUtilities.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\Microsoft.Extensions.ObjectPool.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\Microsoft.Extensions.Options.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\Microsoft.Extensions.Primitives.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\Microsoft.Extensions.WebEncoders.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\Microsoft.Net.Http.Headers.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\Microsoft.Win32.Registry.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\Newtonsoft.Json.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\System.Buffers.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\System.ComponentModel.Annotations.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\System.IO.Pipelines.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\System.Memory.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\System.Numerics.Vectors.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\System.Security.AccessControl.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\System.Security.Cryptography.Xml.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\System.Security.Permissions.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\System.Security.Principal.Windows.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\System.Text.Encodings.Web.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\System.Threading.Tasks.Extensions.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\System.Web.Helpers.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\System.Web.Mvc.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\System.Web.Optimization.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\System.Web.Razor.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\System.Web.WebPages.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\System.Web.WebPages.Razor.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\WebGrease.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\Google.Api.CommonProtos.pdb
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\Google.Api.CommonProtos.xml
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\Google.Protobuf.pdb
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\Google.Protobuf.xml
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\Microsoft.AspNetCore.Authentication.xml
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\Microsoft.AspNetCore.Authentication.Cookies.xml
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\Microsoft.AspNetCore.Authentication.Core.xml
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\Microsoft.AspNetCore.DataProtection.xml
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\Microsoft.AspNetCore.Http.xml
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\Microsoft.AspNetCore.Http.Extensions.xml
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\Microsoft.AspNetCore.Http.Features.xml
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\Microsoft.AspNetCore.WebUtilities.xml
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\Microsoft.Extensions.ObjectPool.xml
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\Microsoft.Extensions.Options.xml
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\Microsoft.Extensions.Primitives.xml
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\Microsoft.Extensions.WebEncoders.xml
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\Microsoft.Net.Http.Headers.xml
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\System.Buffers.xml
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\System.IO.Pipelines.xml
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\System.Memory.xml
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\System.Numerics.Vectors.xml
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\System.Text.Encodings.Web.xml
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\System.Threading.Tasks.Extensions.xml
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\System.Web.Helpers.xml
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\System.Web.Mvc.xml
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\System.Web.Optimization.xml
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\System.Web.Razor.xml
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\System.Web.WebPages.xml
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\System.Web.WebPages.Razor.xml
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\Newtonsoft.Json.xml
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\Antlr3.Runtime.pdb
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\obj\Debug\WebApplication1.dll
+E:\Zalo Received Files\NHOM-17-Lập trình web\NHOM-17-Lập trình web\WebNgheNhac\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\WebApplication1.dll.config
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\WebApplication1.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\WebApplication1.pdb
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\roslyn\csc.exe
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\roslyn\csc.exe.config
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\roslyn\csc.rsp
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\roslyn\csi.exe
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\roslyn\csi.exe.config
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\roslyn\csi.rsp
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\roslyn\System.Console.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\roslyn\vbc.exe
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\roslyn\vbc.rsp
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\Google.Api.CommonProtos.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\Google.Protobuf.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\Microsoft.AspNetCore.Authentication.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\Microsoft.Extensions.Options.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\Microsoft.Win32.Registry.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\System.Buffers.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\System.ComponentModel.Annotations.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\System.IO.Pipelines.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\System.Memory.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\System.Numerics.Vectors.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\System.Security.AccessControl.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\System.Security.Cryptography.Xml.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\System.Security.Permissions.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\System.Security.Principal.Windows.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\System.Text.Encodings.Web.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\System.Web.Helpers.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\System.Web.Mvc.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\System.Web.Optimization.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\System.Web.Razor.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\System.Web.WebPages.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\WebGrease.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\Google.Api.CommonProtos.pdb
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\Google.Api.CommonProtos.xml
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\Google.Protobuf.pdb
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\Google.Protobuf.xml
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\Microsoft.AspNetCore.Authentication.xml
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\Microsoft.AspNetCore.Authentication.Cookies.xml
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\Microsoft.AspNetCore.DataProtection.xml
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\Microsoft.Extensions.Options.xml
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\Microsoft.Extensions.WebEncoders.xml
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\System.Buffers.xml
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\System.IO.Pipelines.xml
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\System.Memory.xml
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\System.Numerics.Vectors.xml
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\System.Text.Encodings.Web.xml
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\System.Web.Helpers.xml
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\System.Web.Mvc.xml
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\System.Web.Optimization.xml
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\System.Web.Razor.xml
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\System.Web.WebPages.xml
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\obj\Debug\WebAppli.7D14BD69.Up2Date
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\obj\Debug\WebApplication1.dll
+C:\Users\Admin\Downloads\Webnghenhac\Webnghenhac\WebNgheNhac\Webnghenhac\obj\Debug\WebApplication1.pdb
